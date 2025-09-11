@@ -6,7 +6,7 @@ This project demonstrates an end-to-end data science workflow to predict the hou
 
 **The final XGBoost model successfully reduced the prediction error (RMSE) by 86.68% compared to the initial baseline.**
 
-![XGBoost Predictions vs Actual](path/to/your/final_plot.png)
+![XGBoost Predictions vs Actual]("C:\Users\User\Downloads\result .png")
 *<p align="center">Note: You should replace the image path above with a screenshot of your final prediction plot!</p>*
 
 ---
